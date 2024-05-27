@@ -1,4 +1,4 @@
-# <center>Projekt BASEN</center>
+# Projekt BASEN
 System do rezerwacji basenów. 
 Stworzony na potrzeby zaliczenia przedmiotu <b>_Programowanie deklaratywne_</b> w roku akademickim 2023/2024.
 
