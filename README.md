@@ -1,4 +1,3 @@
-![image](https://github.com/ArturSierakowski/ProjektBasen/assets/115699855/03cb155d-eb98-4958-b33e-68f6ebec6bec)
 # <center>Projekt BASEN</center>
 System do rezerwacji basenów. 
 Stworzony na potrzeby zaliczenia przedmiotu <b>_Programowanie deklaratywne_</b> w roku akacemickim 2023/2024.
